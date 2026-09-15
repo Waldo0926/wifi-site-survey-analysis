@@ -1,5 +1,10 @@
 # Wi-Fi 现场勘测与漫游分析
 
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E8%AF%BE%E7%A8%8B%E4%BD%9C%E4%B8%9A-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-Python-7c3aed?style=for-the-badge)](#)
+[![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 [English](README.md)
 
 这是一个在课程结束后重新整理的、适合公开展示的 WLAN 分析项目，涵盖 **RSSI、信道观察、按物理 AP 去重的漫游重叠分析，以及可复现的 Python 可视化**。
