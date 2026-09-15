@@ -1,0 +1,10 @@
+point,top1_ap,top1_rssi_dbm,top2_ap,top2_rssi_dbm,delta_db,roaming_overlap_candidate
+A,AP-C,-49,AP-B,-76,27,False
+B,AP-A,-47,AP-C,-83,36,False
+C,AP-C,-57,AP-A,-75,18,False
+D,AP-A,-68,AP-C,-75,7,True
+E,AP-C,-61,AP-B,-75,14,True
+F,AP-B,-59,AP-C,-80,21,False
+G,AP-D,-59,,,,False
+H,AP-A,-71,,,,False
+I,AP-C,-72,AP-D,-75,3,True
