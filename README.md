@@ -1,5 +1,10 @@
 # Wi-Fi Site Survey Analysis
 
+[![Type](https://img.shields.io/badge/Type-Coursework-2563eb?style=for-the-badge)](#)
+[![Tech](https://img.shields.io/badge/Tech-Python-7c3aed?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 [简体中文](README.zh-CN.md)
 
 A post-course, privacy-safe refactor of an indoor WLAN survey: **RSSI analysis, channel observations, physical-AP-aware roaming overlap, and reproducible visualisation in Python**.
