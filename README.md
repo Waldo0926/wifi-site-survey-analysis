@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
 
 
-[简体中文](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 A post-course, privacy-safe refactor of an indoor WLAN survey: **RSSI analysis, channel observations, physical-AP-aware roaming overlap, and reproducible visualisation in Python**.
 
